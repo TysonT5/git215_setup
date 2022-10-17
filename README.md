@@ -1,2 +1,2 @@
 # git215_setup
-Tyson - Mod1 Homework
+## Author: Tyson Teuscher
